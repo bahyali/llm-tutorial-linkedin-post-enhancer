@@ -43,7 +43,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/linkedin-post-enhancer.git
+    git clone https://github.com/bahyali/llm-tutorial-linkedin-post-enhancer.git
     cd linkedin-post-enhancer
     ```
 
